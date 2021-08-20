@@ -8,7 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 **Sheng-Chieh Lin**, Jheng-Hong Yang, Jimmy Lin.  
 ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021.  
-[**Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling**](https://dl.acm.org/doi/10.1145/3404835.3462891), Sebastian Hofstätter, **Sheng-Chieh Lin**, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '21), July 2021.  
+
+[Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://dl.acm.org/doi/10.1145/3404835.3462891).  
+Sebastian Hofstätter, **Sheng-Chieh Lin**, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury.  
+SIGIR, July 2021.  
+
 [**Chatty Goose: A Python Framework for Conversational Search**](https://dl.acm.org/doi/10.1145/3404835.3462782), Edwin Zhang, **Sheng-Chieh Lin**, Jheng-Hong Yang, Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '21), July 2021.  
 [**Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations**](https://dl.acm.org/doi/10.1145/3404835.3463238), Jimmy Lin, Xueguang Ma, **Sheng-Chieh Lin**, Jheng-Hong Yang, Ronak Pradeep, and Rodrigo Nogueira, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '21), July 2021.
 [**Contextualized Query Embeddings for Conversational Search**](https://arxiv.org/abs/2104.08707), **Sheng-Chieh Lin**, Jheng-Hong Yang, Jimmy Lin, arXiv:2104.08707, April 2021.  
