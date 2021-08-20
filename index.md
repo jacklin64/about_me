@@ -1,7 +1,7 @@
 ## 
 Hi, I'm a Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the David R. Cheriton School of Computer Science at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search and its application to conversational search. 
 
-My research philosophy is 
+Previously, I was a senior engineer in [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis. This experience had great inference on my research philosophy. 
 
 
 ## Publication
