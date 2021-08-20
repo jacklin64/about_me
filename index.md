@@ -1,8 +1,7 @@
 ## 
-Hi, I'm a Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the David R. Cheriton School of Computer Science at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search and its application to conversational search. 
+Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the David R. Cheriton School of Computer Science at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search and its application to conversational search. I'm interested in building a simple yet effective approach to information retrieval.  
 
-Previously, I was a senior engineer in [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis. This experience had great inference on my research philosophy. 
-
+Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publication
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
@@ -29,7 +28,7 @@ arXiv:2104.08707, April 2021.
 Sheng-Chieh Lin, Jheng-Hong Yang, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
 TOIS, 2021, in press.  
 
-[Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models.](https://dl.acm.org/doi/10.1145/3404835.3463238).  
+[Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models](https://dl.acm.org/doi/10.1145/3404835.3463238).  
 Jheng-Hong Yang, Sheng-Chieh Lin, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
 COLING, December 2020.
 
