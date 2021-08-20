@@ -1,11 +1,10 @@
-## Welcome to GitHub Pages
+## 
+Hi, I'm a Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the David R. Cheriton School of Computer Science at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search and its application to conversational search. 
 
-You can use the [editor on GitHub](https://github.com/jacklin64/my_profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My research philosophy is 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Publication
-### NLP and Information Retrieval
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
 ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021.  
@@ -34,7 +33,6 @@ TOIS, 2021, in press.
 Jheng-Hong Yang, Sheng-Chieh Lin, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
 COLING, December 2020.
 
-### Recommendation
 [Personalized TV Recommendation: Fusing User Behavior and Preferences](https://arxiv.org/abs/2009.08957).  
 Sheng-Chieh Lin, Ting-Wei Lin, Jing-Kai Lou, Ming-Feng Tsai, Chuan-Ju Wang.  
 arXiv:2104.08707, August 2020. 
@@ -42,35 +40,3 @@ arXiv:2104.08707, August 2020.
 [Negative-Aware Collaborative Filtering](http://ceur-ws.org/Vol-2431/paper9.pdf).  
 Sheng-Chieh Lin, Yu-Neng Chuang, Sheng-Fang Yang, Ming-Feng Tsai and Chuan-Ju Wang.  
 RecSys (Late-Breaking Results), September 2019.  
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacklin64/my_profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
