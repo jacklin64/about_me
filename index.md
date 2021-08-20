@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/jacklin64/my_profile/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Publication
+## Publication
+### NLP and Information Retrieval
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
 ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021.  
