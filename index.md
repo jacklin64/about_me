@@ -37,11 +37,12 @@ COLING, December 2020.
 ### Recommendation
 [Personalized TV Recommendation: Fusing User Behavior and Preferences](https://arxiv.org/abs/2009.08957).  
 Sheng-Chieh Lin, Ting-Wei Lin, Jing-Kai Lou, Ming-Feng Tsai, Chuan-Ju Wang.  
+arXiv:2104.08707, August 2020. 
 
 [Negative-Aware Collaborative Filtering](http://ceur-ws.org/Vol-2431/paper9.pdf).  
 Sheng-Chieh Lin, Yu-Neng Chuang, Sheng-Fang Yang, Ming-Feng Tsai and Chuan-Ju Wang.  
 RecSys (Late-Breaking Results), September 2019.  
-arXiv:2104.08707, August 2020. 
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
