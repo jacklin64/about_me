@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/jacklin64/my_profile/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publication
+[In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/), Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin, Proceedings of the 6th Workshop on Representation Learning for NLP
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
