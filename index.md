@@ -24,7 +24,7 @@ SIGIR Resource Papers, July 2021.
 [Contextualized Query Embeddings for Conversational Search](https://arxiv.org/abs/2104.08707).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin, arXiv:2104.08707, April 2021.  
 
-[Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting] (https://dl.acm.org/doi/10.1145/3404835.3463238).  
+[Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3404835.3463238).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
 TOIS, 2021, in press.  
 
