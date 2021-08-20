@@ -28,7 +28,7 @@ arXiv:2104.08707, April 2021.
 Sheng-Chieh Lin, Jheng-Hong Yang, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
 TOIS, 2021, in press.  
 
-[Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models](https://dl.acm.org/doi/10.1145/3404835.3463238).  
+[Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models](https://aclanthology.org/2020.coling-main.307/).  
 Jheng-Hong Yang, Sheng-Chieh Lin, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
 COLING, December 2020.
 
