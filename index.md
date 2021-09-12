@@ -10,7 +10,7 @@ EMNLP, Nov 2021. [[arxiv](https://arxiv.org/abs/2104.08707)]
 
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
-ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021. [[code](https://github.com/castorini/tct_colbert)] [[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)] [[arxiv](https://arxiv.org/abs/2010.11386)]   
+ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
 
 
 [Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3446426).  
