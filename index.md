@@ -15,7 +15,7 @@ ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021. [[code]
 
 [Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3446426).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
-TOIS, Aug 2021. [[code](https://github.com/castorini/chatty-goose)] [[arxiv](https://arxiv.org/abs/2005.02230)]
+TOIS, Aug 2021. [[code](https://github.com/castorini/chatty-goose)][[arxiv](https://arxiv.org/abs/2005.02230)]
 
 [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://dl.acm.org/doi/10.1145/3404835.3462891).  
 Sebastian Hofstätter, Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury.  
