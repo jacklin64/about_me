@@ -4,9 +4,13 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publication
+Contextualized Query Embeddings for Conversational Search.  
+Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
+EMNLP, Nov 2021. [[arxiv](https://arxiv.org/abs/2104.08707)]
+
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
-ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021.  
+ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
 
 [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://dl.acm.org/doi/10.1145/3404835.3462891).  
 Sebastian Hofstätter, Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury.  
@@ -19,10 +23,6 @@ SIGIR Demonstrations, July 2021.
 [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/10.1145/3404835.3463238).  
 Jimmy Lin, Xueguang Ma, Sheng-Chieh Lin, Jheng-Hong Yang, Ronak Pradeep, and Rodrigo Nogueira.  
 SIGIR Resource Papers, July 2021.  
-
-[Contextualized Query Embeddings for Conversational Search](https://arxiv.org/abs/2104.08707).  
-Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
-arXiv:2104.08707, April 2021.  
 
 [Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3404835.3463238).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
