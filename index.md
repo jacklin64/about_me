@@ -3,7 +3,7 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
-## Publication
+## Publications
 Contextualized Query Embeddings for Conversational Search.  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
 EMNLP, Nov 2021. [[arxiv](https://arxiv.org/abs/2104.08707)]
