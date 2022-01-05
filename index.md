@@ -4,15 +4,15 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
-[Densifying Sparse Representations for Passage Retrieval by Representational Slicing](https://arxiv.org/abs/2112.04666).  
+[Densifying Sparse Representations for Passage Retrieval by Representational Slicing.](https://arxiv.org/abs/2112.04666)  
 Sheng-Chieh Lin, Jimmy Lin.
 arXiv:2112.04666, Dec 2021. 
 
-[Contextualized Query Embeddings for Conversational Search.](https://aclanthology.org/2021.emnlp-main.77/) 
+[Contextualized Query Embeddings for Conversational Search.](https://aclanthology.org/2021.emnlp-main.77/)  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
 EMNLP, Nov 2021. [[code](https://github.com/castorini/CQE)][[Pyserini](https://github.com/castorini/chatty-goose/blob/master/docs/conversation_dense_retrieval_experiments.md)][[arxiv](https://arxiv.org/abs/2104.08707)]
 
-[In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
+[In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval.](https://aclanthology.org/2021.repl4nlp-1.17/)  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
 ACL workshop on Representation Learning for NLP (RepL4NLP), Aug 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
 
