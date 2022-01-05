@@ -6,7 +6,7 @@ Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and 
 ## Publications
 [Densifying Sparse Representations for Passage Retrieval by Representational Slicing](https://arxiv.org/abs/2112.04666).  
 Sheng-Chieh Lin, Jimmy Lin.
-arXiv:2112.04666, December 2021. 
+arXiv:2112.04666, Dec 2021. 
 
 [Contextualized Query Embeddings for Conversational Search.](https://aclanthology.org/2021.emnlp-main.77/) 
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
@@ -14,7 +14,7 @@ EMNLP, Nov 2021. [[code](https://github.com/castorini/CQE)][[Pyserini](https://g
 
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin.  
-ACL workshop on Representation Learning for NLP (RepL4NLP), August 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
+ACL workshop on Representation Learning for NLP (RepL4NLP), Aug 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
 
 
 [Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3446426).  
