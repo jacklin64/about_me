@@ -4,15 +4,15 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
-[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://arxiv.org/abs/2211.10411). 
-Minghan Li, <ins>Sheng-Chieh Lin</ins>, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen.  
+[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://arxiv.org/abs/2211.10411).  
+Minghan Li, <ins>Sheng-Chieh Lin</ins>, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen.    
 arXiv:2211.10411, Nov 2022. [[code](https://github.com/facebookresearch/dpr-scale/tree/citadel)][[arxiv](https://arxiv.org/abs/2211.10411)]  
 
 [Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval](https://arxiv.org/abs/2208.00511).  
 <ins>Sheng-Chieh Lin</ins>, Minghan Li, Jimmy Lin.  
 arXiv:2208.00511, Jul 2022. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2208.00511)]  
 
-[A Dense Representation Framework for Lexical and Semantic Matching.](https://arxiv.org/abs/2206.09912). 
+[A Dense Representation Framework for Lexical and Semantic Matching](https://arxiv.org/abs/2206.09912).  
 <ins>Sheng-Chieh Lin</ins>, Jimmy Lin.  
 arXiv:2206.09912, Jun 2022. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2206.09912)]  
 
