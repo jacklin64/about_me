@@ -4,23 +4,23 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
-[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://arxiv.org/abs/2211.10411).
-Minghan Li, <ins>Sheng-Chieh Lin</ins>, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen.
+[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://arxiv.org/abs/2211.10411). 
+Minghan Li, <ins>Sheng-Chieh Lin</ins>, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen.  
 arXiv:2211.10411, Nov 2022. [[code](https://github.com/facebookresearch/dpr-scale/tree/citadel)][[arxiv](https://arxiv.org/abs/2211.10411)]  
 
-[Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval.](https://arxiv.org/abs/2208.00511)
-<ins>Sheng-Chieh Lin</ins>, Minghan Li, Jimmy Lin.
+[Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval](https://arxiv.org/abs/2208.00511).  
+<ins>Sheng-Chieh Lin</ins>, Minghan Li, Jimmy Lin.  
 arXiv:2208.00511, Jul 2022. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2208.00511)]  
 
-[A Dense Representation Framework for Lexical and Semantic Matching.](https://arxiv.org/abs/2206.09912)
-<ins>Sheng-Chieh Lin</ins>, Jimmy Lin.
+[A Dense Representation Framework for Lexical and Semantic Matching.](https://arxiv.org/abs/2206.09912). 
+<ins>Sheng-Chieh Lin</ins>, Jimmy Lin.  
 arXiv:2206.09912, Jun 2022. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2206.09912)]  
 
-[Contextualized Query Embeddings for Conversational Search.](https://aclanthology.org/2021.emnlp-main.77/)  
+[Contextualized Query Embeddings for Conversational Search](https://aclanthology.org/2021.emnlp-main.77/).  
 <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Jimmy Lin.  
 EMNLP, Nov 2021. [[code](https://github.com/castorini/CQE)][[Pyserini](https://github.com/castorini/chatty-goose/blob/master/docs/conversation_dense_retrieval_experiments.md)][[arxiv](https://arxiv.org/abs/2104.08707)]
 
-[In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval.](https://aclanthology.org/2021.repl4nlp-1.17/)  
+[In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 <ins>Sheng-Chieh Lin</ins>*, Jheng-Hong Yang*, Jimmy Lin.  
 ACL workshop on Representation Learning for NLP (RepL4NLP), Aug 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
 
