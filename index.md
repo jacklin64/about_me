@@ -4,8 +4,7 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
-[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval.](https://arxiv.org/abs/2211.10411)
-
+[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://arxiv.org/abs/2211.10411).
 Minghan Li, <ins>Sheng-Chieh Lin</ins>, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen.
 arXiv:2211.10411, Nov 2022. [[code](https://github.com/facebookresearch/dpr-scale/tree/citadel)][[arxiv](https://arxiv.org/abs/2211.10411)]  
 
