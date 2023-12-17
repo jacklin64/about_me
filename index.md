@@ -8,7 +8,7 @@ Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and 
 <ins>Sheng-Chieh Lin</ins>, Amin Ahmad, and Jimmy Lin.  
 EMNLP, Nov 2023. [[code](https://github.com/castorini/dhr)]
 
-[How to Train Your Dragon: Diverse Augmentation Towards Generalizable Dense Retrieval](https://aclanthology.org/2023.findings-emnlp.423/).  
+[How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://aclanthology.org/2023.findings-emnlp.423/).  
 <ins>Sheng-Chieh Lin</ins>, Akari Asai, Minghan Li, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, and Xilun Chen.    
 EMNLP Findings, Nov 2023. [[code](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)][[arxiv](https://arxiv.org/abs/2302.07452)]  
 
