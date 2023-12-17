@@ -1,20 +1,40 @@
 ## About Me
-Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search and its application to conversational search. I'm interested in building a simple yet effective approach to information retrieval.  
+Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search, including how to integrate lexical and semantic features into dense representations, its the application to conversational search and multilingual search. I'm interested in building a simple yet effective approach to information retrieval.  
 
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
-[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://arxiv.org/abs/2211.10411).  
+[mAggretriever: A Simple yet Effective Approach to Zero-Shot Multilingual Dense Retrieval](https://aclanthology.org/2023.emnlp-main.715/).  
+<ins>Sheng-Chieh Lin</ins>, Amin Ahmad, and Jimmy Lin.  
+EMNLP, Nov 2023. [[code](https://github.com/castorini/dhr)]
+
+[How to Train Your Dragon: Diverse Augmentation Towards Generalizable Dense Retrieval](https://aclanthology.org/2023.findings-emnlp.423/).  
+<ins>Sheng-Chieh Lin</ins>, Akari Asai, Minghan Li, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, and Xilun Chen.    
+EMNLP Findings, Nov 2023. [[code](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)][[arxiv](https://arxiv.org/abs/2302.07452)]  
+
+[One Blade for One Purpose: Advancing Math Information Retrieval using Hybrid Search](https://dl.acm.org/doi/10.1145/3539618.3591746).  
+Wei Zhong, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, and Jimmy Lin.    
+SIGIR, Jul 2023.
+
+[SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes](https://dl.acm.org/doi/abs/10.1145/3539618.3591977).  
+Minghan Li, <ins>Sheng-Chieh Lin</ins>, Xueguang Ma, and Jimmy Lin.    
+SIGIR, Jul 2023.
+
+[Improving Conversational Passage Re-ranking with View Ensemble](https://dl.acm.org/doi/abs/10.1145/3539618.3592002).  
+Jia-Huei Ju, <ins>Sheng-Chieh Lin</ins>, Ming-Feng Tsai, Chuan-Ju Wang.  
+SIGIR, Jul 2023. [[arxiv](https://arxiv.org/abs/2304.13290)]  
+
+[CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval](https://aclanthology.org/2023.acl-long.663/).  
 Minghan Li, <ins>Sheng-Chieh Lin</ins>, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen.    
-arXiv:2211.10411, Nov 2022. [[code](https://github.com/facebookresearch/dpr-scale/tree/citadel)][[arxiv](https://arxiv.org/abs/2211.10411)]  
+ACL, Jul 2023. [[code](https://github.com/facebookresearch/dpr-scale/tree/citadel)][[arxiv](https://arxiv.org/abs/2211.10411)]  
 
-[Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval](https://arxiv.org/abs/2208.00511).  
+[Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00556/116046/Aggretriever-A-Simple-Approach-to-Aggregate).  
 <ins>Sheng-Chieh Lin</ins>, Minghan Li, Jimmy Lin.  
-arXiv:2208.00511, Jul 2022. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2208.00511)]  
+Transactions of the Association for Computational Linguistics, May 2023. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2208.00511)]  
 
-[A Dense Representation Framework for Lexical and Semantic Matching](https://arxiv.org/abs/2206.09912).  
+[A Dense Representation Framework for Lexical and Semantic Matching](https://dl.acm.org/doi/10.1145/3582426).  
 <ins>Sheng-Chieh Lin</ins>, Jimmy Lin.  
-arXiv:2206.09912, Jun 2022. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2206.09912)]  
+ACM Transactions on Information Systems, Apr 2023. [[code](https://github.com/castorini/dhr)][[arxiv](https://arxiv.org/abs/2206.09912)]  
 
 [Contextualized Query Embeddings for Conversational Search](https://aclanthology.org/2021.emnlp-main.77/).  
 <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Jimmy Lin.  
