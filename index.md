@@ -46,7 +46,7 @@ ACL workshop on Representation Learning for NLP (RepL4NLP), Aug 2021. [[code](ht
 
 [Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3446426).  
 <ins>Sheng-Chieh Lin</ins>\*, Jheng-Hong Yang\*, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
-TOIS, Aug 2021. [[code](https://github.com/castorini/chatty-goose)][[arxiv](https://arxiv.org/abs/2005.02230)]
+ACM Transactions on Information Systems, Aug 2021. [[code](https://github.com/castorini/chatty-goose)][[arxiv](https://arxiv.org/abs/2005.02230)]
 
 [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://dl.acm.org/doi/10.1145/3404835.3462891).  
 Sebastian Hofstätter, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury.  
@@ -54,11 +54,11 @@ SIGIR, July 2021.
 
 [Chatty Goose: A Python Framework for Conversational Search](https://dl.acm.org/doi/10.1145/3404835.3462782).  
 Edwin Zhang, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin.  
-SIGIR Demonstrations, July 2021. [[code](https://github.com/castorini/chatty-goose)]  
+SIGIR (Demonstrations), July 2021. [[code](https://github.com/castorini/chatty-goose)]  
 
 [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/10.1145/3404835.3463238).  
 Jimmy Lin, Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Ronak Pradeep, and Rodrigo Nogueira.  
-SIGIR Resource Papers, July 2021.   
+SIGIR (Resource), July 2021.   
 
 [Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models](https://aclanthology.org/2020.coling-main.307/).  
 Jheng-Hong Yang\*, <ins>Sheng-Chieh Lin</ins>\*, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
