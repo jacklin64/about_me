@@ -50,7 +50,7 @@ ACM Transactions on Information Systems, Aug 2021. [[code](https://github.com/ca
 
 [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://dl.acm.org/doi/10.1145/3404835.3462891).  
 Sebastian Hofstätter, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury.  
-SIGIR, July 2021.  
+SIGIR, July 2021. [[code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)] 
 
 [Chatty Goose: A Python Framework for Conversational Search](https://dl.acm.org/doi/10.1145/3404835.3462782).  
 Edwin Zhang, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin.  
@@ -58,7 +58,7 @@ SIGIR (Demonstrations), July 2021. [[code](https://github.com/castorini/chatty-g
 
 [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/10.1145/3404835.3463238).  
 Jimmy Lin, Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Ronak Pradeep, and Rodrigo Nogueira.  
-SIGIR (Resource), July 2021.   
+SIGIR (Resource), July 2021. [[code](https://github.com/castorini/pyserini)]
 
 [Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models](https://aclanthology.org/2020.coling-main.307/).  
 Jheng-Hong Yang\*, <ins>Sheng-Chieh Lin</ins>\*, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
