@@ -6,7 +6,7 @@ Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and 
 ## Publications
 FLAME: Factuality-Aware Alignment for Large Language Models.  
 <ins>Sheng-Chieh Lin</ins>\*, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen\*.  
-NIPS (just accepted), Dec 2024. [[arxiv](https://arxiv.org/pdf/2405.01525)]
+NeurIPS (just accepted), Dec 2024. [[arxiv](https://arxiv.org/pdf/2405.01525)]
 
 Unifying Multimodal Retrieval via Document Screenshot Embedding.  
 Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Minghan Li, Wenhu Chen, Jimmy Lin.  
