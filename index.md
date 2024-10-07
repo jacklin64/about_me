@@ -1,9 +1,17 @@
 ## About Me
-Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search, including how to integrate lexical and semantic features into dense representations, its application to conversational search and multilingual search.  
+Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search, including how to integrate lexical and semantic features into dense representations, its application to broader scenario, such as conversationa, multilingual and multimodal search.  
 
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
+Flame: Factuality-aware alignment for large language models.
+<ins>Sheng-Chieh Lin</ins>, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen
+NIPS (just accepted), Dec 2024. [[arxiv](https://arxiv.org/pdf/2405.01525)]
+
+Unifying Multimodal Retrieval via Document Screenshot Embedding.
+Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Minghan Li, Wenhu Chen, Jimmy Lin 
+EMNLP (just accepted), Nov 2024. [[arxiv](https://arxiv.org/abs/2406.11251)]
+
 [mAggretriever: A Simple yet Effective Approach to Zero-Shot Multilingual Dense Retrieval](https://aclanthology.org/2023.emnlp-main.715/).  
 <ins>Sheng-Chieh Lin</ins>, Amin Ahmad, and Jimmy Lin.  
 EMNLP, Nov 2023. [[code](https://github.com/castorini/dhr)]
