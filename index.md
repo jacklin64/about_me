@@ -4,12 +4,12 @@ Hi, I'm the Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jim
 Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
 
 ## Publications
-[FLAME: Factuality-Aware Alignment for Large Language Models.]()
-<ins>Sheng-Chieh Lin</ins>\*, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen\*.
+FLAME: Factuality-Aware Alignment for Large Language Models.  
+<ins>Sheng-Chieh Lin</ins>\*, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen\*.  
 NIPS (just accepted), Dec 2024. [[arxiv](https://arxiv.org/pdf/2405.01525)]
 
-[Unifying Multimodal Retrieval via Document Screenshot Embedding.]()
-Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Minghan Li, Wenhu Chen, Jimmy Lin. 
+Unifying Multimodal Retrieval via Document Screenshot Embedding.  
+Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Minghan Li, Wenhu Chen, Jimmy Lin.  
 EMNLP (just accepted), Nov 2024. [[arxiv](https://arxiv.org/abs/2406.11251)]
 
 [mAggretriever: A Simple yet Effective Approach to Zero-Shot Multilingual Dense Retrieval](https://aclanthology.org/2023.emnlp-main.715/).  
