@@ -1,16 +1,20 @@
 ## About Me
-Hi, I'm a Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research interests are dense retrieval for text search, including how to integrate lexical and semantic features into dense representations, its application to broader scenario, such as conversationa, multilingual and multimodal search.  
+Hi, I'm a Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research focuses on dense retrieval for text search, including how to integrate lexical and semantic features into dense representations, its application to broader scenario, such as conversationa, multilingual and multimodal search.  
 
-Previously, I was a senior engineer at [TSMC](https://www.tsmc.com/english) and working on improving CMOS image sensors through data analysis and knowledge of semiconductor. This experience shapes my research philosophy: human prior knowledge is the key to telling the story behind data and solving problems.
+I previously interned as a research scientist in Meta, Vectara and Nvidia and had a chance to lead the project to build state-of-the-art dense retriever, [DRAGON](https://huggingface.co/facebook/dragon-plus-context-encoder), multilingual dense retriever, [mAggretriever](https://aclanthology.org/2023.emnlp-main.715/), and universal multimodal dense retrieval model, [MM-Embed](https://huggingface.co/nvidia/MM-Embed). In addition, I have led a project, [FLAME](https://arxiv.org/pdf/2405.01525)), to improve large language models' factuality. 
 
 ## Publications
+MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs.
+<ins>Sheng-Chieh Lin</ins>, Chankyu Lee, Mohammad Shoeybi, Jimmy Lin, Bryan Catanzaro, and Wei Ping.
+[[model](https://huggingface.co/nvidia/MM-Embed)][[arxiv](https://arxiv.org/abs/2411.02571)]
+
 FLAME: Factuality-Aware Alignment for Large Language Models.  
 <ins>Sheng-Chieh Lin</ins>\*, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen\*.  
 NeurIPS (just accepted), Dec 2024. [[arxiv](https://arxiv.org/pdf/2405.01525)]
 
-Unifying Multimodal Retrieval via Document Screenshot Embedding.  
+[Unifying Multimodal Retrieval via Document Screenshot Embedding.](https://aclanthology.org/2024.emnlp-main.373/)  
 Xueguang Ma, <ins>Sheng-Chieh Lin</ins>, Minghan Li, Wenhu Chen, Jimmy Lin.  
-EMNLP (just accepted), Nov 2024. [[arxiv](https://arxiv.org/abs/2406.11251)]
+EMNLP, Nov 2024. [[arxiv](https://arxiv.org/abs/2406.11251)]
 
 [mAggretriever: A Simple yet Effective Approach to Zero-Shot Multilingual Dense Retrieval](https://aclanthology.org/2023.emnlp-main.715/).  
 <ins>Sheng-Chieh Lin</ins>, Amin Ahmad, and Jimmy Lin.  
@@ -18,7 +22,7 @@ EMNLP, Nov 2023. [[code](https://github.com/castorini/dhr)]
 
 [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://aclanthology.org/2023.findings-emnlp.423/).  
 <ins>Sheng-Chieh Lin</ins>\*, Akari Asai, Minghan Li, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, and Xilun Chen\*.    
-EMNLP Findings, Nov 2023. [[code](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)][[arxiv](https://arxiv.org/abs/2302.07452)]  
+EMNLP Findings, Nov 2023. [[code](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)][[model](https://huggingface.co/facebook/dragon-plus-context-encoder)][[arxiv](https://arxiv.org/abs/2302.07452)]  
 
 [One Blade for One Purpose: Advancing Math Information Retrieval using Hybrid Search](https://dl.acm.org/doi/10.1145/3539618.3591746).  
 Wei Zhong, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, and Jimmy Lin.    
@@ -50,7 +54,7 @@ EMNLP, Nov 2021. [[code](https://github.com/castorini/CQE)][[Pyserini](https://g
 
 [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval](https://aclanthology.org/2021.repl4nlp-1.17/).  
 <ins>Sheng-Chieh Lin</ins>\*, Jheng-Hong Yang\*, Jimmy Lin.  
-ACL workshop on Representation Learning for NLP (RepL4NLP), Aug 2021. [[code](https://github.com/castorini/tct_colbert)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
+ACL workshop on Representation Learning for NLP (RepL4NLP), Aug 2021. [[code](https://github.com/castorini/tct_colbert)][[model](https://huggingface.co/castorini/tct_colbert-v2-hnp-msmarco)][[Pyserini](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md)][[arxiv](https://arxiv.org/abs/2010.11386)]   
 
 [Multi-Stage Conversational Passage Retrieval: An Approach to Fusing Term Importance Estimation and Neural Query Rewriting](https://dl.acm.org/doi/10.1145/3446426).  
 <ins>Sheng-Chieh Lin</ins>\*, Jheng-Hong Yang\*, Rodrigo Nogueira, Ming-Feng Tsai, Chuan-Ju Wang, and Jimmy Lin.  
@@ -58,7 +62,7 @@ ACM Transactions on Information Systems, Aug 2021. [[code](https://github.com/ca
 
 [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://dl.acm.org/doi/10.1145/3404835.3462891).  
 Sebastian Hofstätter, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury.  
-SIGIR, July 2021. [[code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)] 
+SIGIR, July 2021. [[code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)][[model](https://huggingface.co/sebastian-hofstaetter/distilbert-dot-tas_b-b256-msmarco)] 
 
 [Chatty Goose: A Python Framework for Conversational Search](https://dl.acm.org/doi/10.1145/3404835.3462782).  
 Edwin Zhang, <ins>Sheng-Chieh Lin</ins>, Jheng-Hong Yang, Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin.  
