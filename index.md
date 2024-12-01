@@ -1,7 +1,7 @@
 ## About Me
 Hi, I'm a Ph.D. student supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo starting from 2020. My research focuses on dense retrieval for text search, including how to integrate lexical and semantic features into dense representations, its application to broader scenario, such as conversationa, multilingual and multimodal search.  
 
-I previously interned as a research scientist in Meta, Vectara and Nvidia and had a chance to lead the project to build state-of-the-art dense retriever, [DRAGON](https://huggingface.co/facebook/dragon-plus-context-encoder), multilingual dense retriever, [mAggretriever](https://aclanthology.org/2023.emnlp-main.715/), and universal multimodal dense retrieval model, [MM-Embed](https://huggingface.co/nvidia/MM-Embed). In addition, I have led a project, [FLAME](https://arxiv.org/pdf/2405.01525)), to improve large language models' factuality. 
+I previously interned as a research scientist in Meta, Vectara and Nvidia and had a chance to lead the project to build state-of-the-art English text, [DRAGON](https://huggingface.co/facebook/dragon-plus-context-encoder), multilingual text, [mAggretriever](https://aclanthology.org/2023.emnlp-main.715/), and universal multimodal dense retrieval model, [MM-Embed](https://huggingface.co/nvidia/MM-Embed). In addition, I have led a project, [FLAME](https://arxiv.org/pdf/2405.01525)), to improve large language models' factuality. 
 
 ## Publications
 MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs.
